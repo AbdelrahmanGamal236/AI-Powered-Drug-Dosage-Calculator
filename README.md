@@ -1,7 +1,7 @@
 # AI-Powered Drug Dosage Calculator
 
 AI-Powered Drug Dosage Calculator is a Flask web application with Google Gemini AI for advanced personalized drug dosage calculation leveraging AI and machine learning techniques.
-
+![Page 1](dose.jpg)
 ## Overview
 
 AI-Powered Drug Dosage Calculator aims to revolutionize personalized medication dosing by integrating cutting-edge technologies in AI, machine learning, and clinical decision support. This platform provides tools for automated analysis, prediction, and decision support in medication dosage calculation, particularly focusing on various drugs and patient demographics.
